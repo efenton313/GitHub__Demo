@@ -203,6 +203,12 @@
             }
           }
         ],
+        "measures": [
+          {
+            "name": "Standard Cost Sum",
+            "expression": " SUM('Product'[StandardCost])"
+          }
+        ],
         "annotations": [
           {
             "name": "_TM_ExtProp_QueryDefinition",
