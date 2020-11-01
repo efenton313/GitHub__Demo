@@ -211,6 +211,10 @@
           {
             "name": "List Price Sum",
             "expression": " SUM('Product'[ListPrice])"
+          },
+          {
+            "name": "Cost Difference",
+            "expression": " 1"
           }
         ],
         "annotations": [
