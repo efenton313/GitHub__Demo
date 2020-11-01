@@ -207,6 +207,10 @@
           {
             "name": "Standard Cost Sum",
             "expression": " SUM('Product'[StandardCost])"
+          },
+          {
+            "name": "List Price Sum",
+            "expression": " SUM('Product'[ListPrice])"
           }
         ],
         "annotations": [
