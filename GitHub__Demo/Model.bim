@@ -215,6 +215,10 @@
           {
             "name": "Cost Difference",
             "expression": " 1"
+          },
+          {
+            "name": "test",
+            "expression": " 1"
           }
         ],
         "annotations": [
